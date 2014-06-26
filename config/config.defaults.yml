@@ -97,9 +97,9 @@ default: &default_settings
 
   # smtp_email_address: "smtp.gmail.com"
   # smtp_email_port: 587
-  # smtp_email_user_name: "<YOUR_GMAIL_USERNAME>@gmail.com"
-  # smtp_email_password: "<YOUR_GMAIL_PASSWORD>"
-  # smtp_email_domain: "localhost"
+  # smtp_email_user_name: "cococitii@gmail.com"
+  # smtp_email_password: "cocomail123"
+  # smtp_email_domain: "gmail.com"
 
   # postmark_api_key:
 
